@@ -1,2 +1,2 @@
 # Classifying-eeg-signal
-Extracting 2 states from and eeg signal
+- `Classifying egg states for the ability of user input simply by thinking˛`
